@@ -1,33 +1,25 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Angelo Mangalindan Portfolio
 
+Personal portfolio website showcasing data analytics projects focused on sports analytics, SQL, Python, Tableau, and data storytelling.
 
-So I've had the wireframe for this particular design kicking around for some time, but with all
-the other interesting (and in some cases, semi-secret) projects I've been working on it took me
-a little while to get to actually designing and coding it. Fortunately, things have eased up
-enough for me to finaly get around to it, so I'm happy to introduce Hyperspace: a fun, blocky,
-one-page design with a lot of color, a bit of animation, and an additional "generic" page template
-(because hey, even one-page sites usually need an interior page or two). Hope you dig it :)
+## Live Website
+[Portfolio Website](https://emanon21.github.io/)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Projects Featured
+- Draft Position Predict All-Star Success
+- NBA Champions Analysis
+- Playoff Riser
+- The Stephen Curry System
+- Video Game Sales Analysis
 
-(* = not included)
+## Tools & Technologies
+- Python
+- SQL
+- Pandas
+- Tableau
+- Power BI
+- Microsoft Excel
+- HTML/CSS
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## About
+Passionate about data analytics, sports analytics, and uncovering insights through data visualization and storytelling.
